@@ -82,4 +82,4 @@ in address section type 127.0.0.1:5901 And in Name type Kali. And click on conne
 $ nethunter kex stop
 ~~~
 
-NOW NETHUNTER WORKS VNC VIEWER 😯 COOL RIGHT
+NOW NETHUNTER WORKS ON VNC VIEWER 😯 COOL RIGHT😂 #Happy Hacking
