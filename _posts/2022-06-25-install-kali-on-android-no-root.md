@@ -4,11 +4,10 @@ title: Install kali on android NO ROOT!
 subtitle: Install kali in Termux (NO ROOT)
 thumbnail-img: https://frix.pythonanywhere.com/admin/fileadmin/download/image_one_1-min.png
 cover-img: https://frix.pythonanywhere.com/admin/fileadmin/download/image_one_1-min.png
-tags: [howto,Termux,AndroidHacks]
+tags: [howto,Termux,Android Tricks]
 ---
 
 ## What is **kali** linux
-
 Kali linux is the most used penetration testing operating system which runs on the Linux kernel. And kali Linux provides up to date 600+ penetration testing inbuilt tools with stable updates and these tools are easy to use and are open source too. So if you would like to use kali Linux not only on laptops and computers but on android mobiles also. Then this tutorial is for you
 
 ## Installation Requirements
@@ -82,4 +81,4 @@ in address section type 127.0.0.1:5901 And in Name type Kali. And click on conne
 $ nethunter kex stop
 ~~~
 
-NOW NETHUNTER WORKS ON VNC VIEWER 😯 COOL RIGHT😂 #Happy Hacking
+# NOW NETHUNTER WORKS ON VNC VIEWER 😯 COOL RIGHT😂 #Happy Hacking
