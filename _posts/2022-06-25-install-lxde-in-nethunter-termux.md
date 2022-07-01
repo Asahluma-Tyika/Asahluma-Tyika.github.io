@@ -8,7 +8,6 @@ tags : [howto,Termux, Android Tricks]
 ---
 
 ## What is LXDE ?
-
 LXDE (abbreviation for **L**ightweight **X**11 **D**esktop **E**nvironment) is a free desktop environment with comparatively low resource requirements. This makes it especially suitable for use on older or resource-constrained personal computers such as netbooks or system on a chip computers.
 
 ## Installation Requirements
