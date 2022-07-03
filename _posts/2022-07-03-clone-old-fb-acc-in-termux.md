@@ -1,4 +1,5 @@
 ---
+layout:post
 title: Clone old FB account in termux
 subtitle: Fb cloning in termux
 thumbnail-img:https://frix.pythonanywhere.com/admin/fileadmin/download/20220703_060456.jpg
@@ -60,10 +61,11 @@ Facebook id clone in termux 2021
 
 Now select number 1 and log-in
 
-# warning:
+## warning:
 
 Don’t use your personal ID. use a fake ID to log-in
 After log-in this tool will start to clone you friend-list.
 After some time you will see your result.If it failed then there are many reason that you have to solve
 
-# Happy Hacking # For educational purposes only
+## !!!! 
+ For educational purposes only.
