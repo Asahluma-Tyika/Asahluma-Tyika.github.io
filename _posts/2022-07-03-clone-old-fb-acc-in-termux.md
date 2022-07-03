@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Clone old FB account in termux
+title: Clone FB account in Termux
 thumbnail-img: https://frix.pythonanywhere.com/admin/fileadmin/download/20220703_060456.jpg
-subtitle:
+subtitle: Facebook account cloning in Termux
 cover-img: https://frix.pythonanywhere.com/admin/fileadmin/download/20220703_060456.jpg
 tags: [Termux,howto,Android Tricks]
 comments : true
