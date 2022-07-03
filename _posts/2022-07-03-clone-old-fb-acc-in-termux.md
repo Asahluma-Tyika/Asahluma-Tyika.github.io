@@ -7,7 +7,7 @@ cover-img:https://frix.pythonanywhere.com/admin/fileadmin/download/20220703_0604
 tags:[Termux, howto, Android Tricks]
 ---
 
-##What is Facebook account cloning?
+## What is Facebook account cloning?
 Facebook cloning is a scam in which the attacker copies the profile picture of an authorized user, creates a new account using that person's name and sends friend requests to people on the user's list.
 ## Fb cloning tools in termux
 Following is a list of popular fb cloning tools,but we'll only be using one 
